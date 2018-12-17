@@ -1,2 +1,2 @@
 # WearableLSL
-A wearable device for data sample with Lab Streaming Layer
+A wearable device for data sampling with Lab Streaming Layer including an IMU for gait cycle analysing
